@@ -58,6 +58,6 @@ public class GuessGame{
             System.out.println("Player to have try again")
         }
         
-        };
+        }
     }
 }
